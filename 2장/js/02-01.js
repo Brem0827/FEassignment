@@ -1,0 +1,6 @@
+console.log(4 + 10); // 14 (d)
+console.log(4 + "10"); // "410" (c)
+console.log(parseInt(10 + 0.5)); // 10 (e)
+console.log("10" + 0.5); // "100.5" (a)
+console.log(10 + 0.5); // 10.5 (b)
+console.log(parseFloat("10" + 0.5)); // 100.5 (f)
